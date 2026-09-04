@@ -81,6 +81,7 @@ python buscas/linear_search.py
 - [x] Busca Linear
 - [x] Busca Binária
 - [x] Bubble Sort
+- [x] Selection Sort
 - [ ] Demais algoritmos em andamento
 
 ## 🧠 Sobre
