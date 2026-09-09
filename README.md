@@ -73,15 +73,17 @@ algoritmos-busca-ordenacao/
 ```bash
 git clone https://github.com/eduardomendesrocco/Buscas-e-ordenacoes-Searching-and-Sorting.git
 cd Buscas-e-ordenacoes-Searching-and-Sorting
-python buscas/linear_search.py
+python <nome_diretorio>/<nome_arquivo.py>
 ```
 
 ## ✅ Progresso
 
-- [x] Busca Linear
-- [x] Busca Binária
+- [x] Linear Search
+- [x] Binary Search
+- [x] Jump Search
 - [x] Bubble Sort
 - [x] Selection Sort
+- [x] Insertion Sort
 - [ ] Demais algoritmos em andamento
 
 ## 🧠 Sobre
